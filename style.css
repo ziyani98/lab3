@@ -1,0 +1,17 @@
+h1, h5{
+    color: #2F4F4F;
+}
+img{
+    width: 100%;
+}
+div{
+    padding:6px
+}
+.txtBlog{
+    font-weight: bold;
+    color: #D2691E;
+}
+.article{
+    font-size:large;
+    color: #2F4F4F;
+}
